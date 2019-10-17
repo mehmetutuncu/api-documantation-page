@@ -1,4 +1,4 @@
-# documentation
+# API Documantation
 
 ## Project setup
 ```
@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Bu proje api endpointlerinizi back-end üzerinden alarak görselleştirmenizi sağlar.
+Hangi endpoint hangi bilgileri alır, hangi response'ları döner ve methodları nelerdir gibi bilgileri gösterir.
+
+![Image description](https://ibb.co/zRsfxYb)
